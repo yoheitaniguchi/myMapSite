@@ -1,18 +1,4 @@
-# Title
-
-![Top](img/top.png)
-
-<div align="right"> @Your Name </div>
-
-<div align="right">
-  <small>
-    Your Commiunity <br>
-  </small>
-</div>
-
----
-
-## MyMapSite
+# MyMapSite
 
 <div>
 
