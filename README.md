@@ -1,1 +1,1 @@
-# myMapSite
+# Slide Template
